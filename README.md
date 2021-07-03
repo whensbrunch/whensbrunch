@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/31248023/124340302-2cdf5f80-db82-11eb-8b06-3111d043cc96.gif" alt="drawing" width="35"/> Hi, I'm David
+# <img src="https://user-images.githubusercontent.com/31248023/124340302-2cdf5f80-db82-11eb-8b06-3111d043cc96.gif" alt="drawing" width="35"/> Hi, I'm David
 
 ### 🔭 I’m currently working on ...
 
