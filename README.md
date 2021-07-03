@@ -1,4 +1,5 @@
-### Hi there 👋
+## ![wave](https://user-images.githubusercontent.com/31248023/124340302-2cdf5f80-db82-11eb-8b06-3111d043cc96.gif) Hey, I'm David
+
 
 <!--
 **whensbrunch/whensbrunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
