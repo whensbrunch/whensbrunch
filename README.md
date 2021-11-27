@@ -5,7 +5,7 @@ Welcome to my little corner of the internet! I'm David -- an engineering executi
 <img src="https://user-images.githubusercontent.com/31248023/124340612-61ecb180-db84-11eb-86df-260143f9b09b.png" width="35"/> Eng
 
 ### My experience
-- <img src="https://user-images.githubusercontent.com/31248023/124340612-61ecb180-db84-11eb-86df-260143f9b09b.png" width="35"/> _CTO_
+- <img src="https://user-images.githubusercontent.com/31248023/143719140-a2a346ca-9303-48b6-be46-e685033591d3.png" width="35"/> _CTO_
 
 - <img src="https://user-images.githubusercontent.com/31248023/124340612-61ecb180-db84-11eb-86df-260143f9b09b.png" width="35"/> _Engineering Manager, Artificial Intelligence_
 
@@ -25,7 +25,7 @@ Welcome to my little corner of the internet! I'm David -- an engineering executi
 ### 🌱 I’m currently learning
 
 - React Native
-- mobile development
+- Mobile development
 
 
 ### 📫 How to reach me: ...
