@@ -3,6 +3,7 @@
 Welcome to my little corner of the internet! I'm David -- an engineering leader based in 🇺🇸 New York City, USA.
 
 ### My experience
+- Clay: _Software Engineer_
 - SevenRooms: _Staff Engineer_
 - <img src="https://user-images.githubusercontent.com/31248023/143719140-a2a346ca-9303-48b6-be46-e685033591d3.png" width="35"/> _CTO_
 
